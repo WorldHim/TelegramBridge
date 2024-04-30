@@ -1,10 +1,10 @@
  {
-	"id": "example_plugin",
-	"version": "1.0.0",
-	"name": "Example Plugin",
-	"description": "Example plugin for MCDR",
-	"author": "Fallen_Breath",
-	"link": "https://github.com/MCDReforged/MCDReforged-ExamplePlugin",
+	"id": "tgbridge",
+	"version": "0.0.1",
+	"name": "Telegram Bridge",
+	"description": "Broadcast chats between Minecraft servers and Telegram",
+	"author": "WorldHim",
+	"link": "https://github.com/WorldHim/TelegramBridge",
 	"dependencies": {
 		"mcdreforged": ">=2.0.0-alpha.1"
 	}
